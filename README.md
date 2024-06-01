@@ -4,7 +4,7 @@ Le répertoire ***Topic-modeling_Latin-America_ILO*** est l'archive des annexes 
 
 
 # Contenu du dépôt
-- `data/` : les données concernant les rapports de chaque pays (tous les membres de l'ILO et les pays en Amérique latine) et les données intiales de Named-Entity Recognition
+- `data/` : les données concernant les rapports de chaque pays (tous les membres de l'ILO et les pays en Amérique latine) et les données initiales de Named-Entity Recognition
 - `results_useless_or_abandoned/` : les données abandonnées ne sont pas utilisées dans l'analyse finale
 - `scripts/` : les scripts utilisés pour scraper les rapports et procéder le traitement des données (LDA, BERTopic, NER)
 - `results_final/` : les résultats et les données finales présentées dans le mémoire
